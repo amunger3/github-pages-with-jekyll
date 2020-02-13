@@ -1,15 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: MD Blog-Template — AMung
+author: Alex Munger
+email: mungera@clarke.k12.ga.us
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a basic markdown blog with a _config.yml.
+  This nonsense is in the meta descriptions as well
+  as the xml feed. Have fun indexing it!
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: yung_mung
+github_username:  amunger3
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: leap-day
+theme: jekyll-theme-leap-day
